@@ -1,0 +1,18 @@
+Criar um sistema voltado para a interação e união entre pessoas e o universo pet:
+O sistema poderá conter os seguintes serviços:
+
+
+*****Adote um pet
+*****Doe um pet
+*****Encontre uma ong
+*****Ajude uma ong
+*****Serviços para seu pet
+-----Encontre um veterinário
+-----Encontre um esteticista
+-----Encontre um dog walker
+-----Encontre um hotel pet
+-----Encontre um Taxi Dog
+-----Encontre um adestrador
+-----Tag PET
+-----RG digital
+*****Loja Online
